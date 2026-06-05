@@ -1,0 +1,119 @@
+__Lrdata 2E FFFFFFD5 DATA
+__Hrbss 2E 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 2CF 0 CODE
+__Birdata 3 FFFFFFD5 DATA
+__Hirdata 2E FFFFFFD5 DATA
+__Lirdata 2E FFFFFFD5 DATA
+powerup D7 0 CODE
+__Htext 2E 0
+__Ltext 2E 0
+strx_copy 2E5 0 CODE
+__Hcode 2E 0
+__Lcode 2E 0
+ldb_r0 26B 0 CODE
+ldc_r0 267 0 CODE
+__Hdata 106 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 2E 0 XDATA
+ldb_r1 278 0 CODE
+ldc_r1 274 0 CODE
+__Hbss 2E 0 XDATA
+__Hstrings 10E 0 CODE
+ldb_r2 285 0 CODE
+ldc_r2 281 0 CODE
+__Lbss 2E 0 XDATA
+__Lstrings 106 0 CODE
+ldb_r3 292 0 CODE
+ldc_r3 28E 0 CODE
+ldb_r4 29F 0 CODE
+ldc_r4 29B 0 CODE
+ldb_r5 2AC 0 CODE
+ldc_r5 2A8 0 CODE
+str_xcopy 2CF 0 CODE
+__S0 310 0
+ldb_r6 2B9 0 CODE
+ldc_r6 2B5 0 CODE
+ldb_r7 2C6 0 CODE
+ldc_r7 2C2 0 CODE
+start1 C3 0 CODE
+__Hnvram 2E 0 XDATA
+small_model 1 0
+__Lnvram 2E 0 XDATA
+ldc_byte 25C 0 CODE
+awmod 8B 0 CODE
+lwmod 64 0 CODE
+__Hheap 2E 0 XDATA
+__Lheap 2E 0 XDATA
+_main 10E 0 CODE
+str_copy 2E5 0 CODE
+?a_main 20 0 DATA
+awdiv 93 0 CODE
+_exit D4 0 CODE
+lwdiv 58 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 2E5 0 CODE
+__Brbit 20 20 BITSEG
+str_load 2E5 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 2E 0 DATA
+__Hidata 2E 0 DATA
+__Lidata 2E 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD5 DATA
+__Hrdata 2E FFFFFFD5 DATA
+%segments
+vectors 0 D9 CODE
+rbit 0 D BITSEG
+data 100 30F CODE
+%locals
+Z:\main_0.obj
+D:\programs\save_ms\pr3\project3\main.c
+4 10E 0 CODE
+7 111 0 CODE
+8 120 0 CODE
+11 126 0 CODE
+12 129 0 CODE
+13 12C 0 CODE
+15 12F 0 CODE
+16 132 0 CODE
+17 135 0 CODE
+38 138 0 CODE
+40 14E 0 CODE
+41 151 0 CODE
+42 154 0 CODE
+44 157 0 CODE
+47 16C 0 CODE
+49 181 0 CODE
+52 18F 0 CODE
+53 196 0 CODE
+57 198 0 CODE
+59 19B 0 CODE
+60 19E 0 CODE
+44 1A1 0 CODE
+38 1B7 0 CODE
+65 1CD 0 CODE
+66 1D0 0 CODE
+67 1D3 0 CODE
+69 1D6 0 CODE
+71 1EB 0 CODE
+72 1FC 0 CODE
+73 1FF 0 CODE
+75 202 0 CODE
+76 205 0 CODE
+77 208 0 CODE
+69 20B 0 CODE
+80 221 0 CODE
+82 236 0 CODE
+83 239 0 CODE
+84 23C 0 CODE
+80 23F 0 CODE
+19 255 0 CODE
+88 258 0 CODE

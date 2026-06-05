@@ -1,0 +1,69 @@
+__Lrdata 35 FFFFFFCE DATA
+__Hrbss 35 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 7D 0 CODE
+__Birdata 3 FFFFFFCE DATA
+__Hirdata 35 FFFFFFCE DATA
+__Lirdata 35 FFFFFFCE DATA
+powerup D2 0 CODE
+__Htext 35 0
+__Ltext 35 0
+strx_copy 93 0 CODE
+__Hcode 35 0
+__Lcode 35 0
+__Hdata 113 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 35 0 XDATA
+__Hbss 35 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 35 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 7D 0 CODE
+__S0 113 0
+start1 BE 0 CODE
+__Hnvram 35 0 XDATA
+small_model 1 0
+__Lnvram 35 0 XDATA
+__Hheap 35 0 XDATA
+__Lheap 35 0 XDATA
+_main 3 0 CODE
+str_copy 93 0 CODE
+?a_main 20 0 DATA
+_exit CF 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 93 0 CODE
+__Brbit 20 20 BITSEG
+str_load 93 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 35 0 DATA
+__Hidata 35 0 DATA
+__Lidata 35 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFCE DATA
+__Hrdata 35 FFFFFFCE DATA
+%segments
+vectors 0 D4 CODE
+rbit 0 14 BITSEG
+data 100 112 CODE
+%locals
+Z:\main_0.obj
+D:\programs\save_ms\pr2\project1\main.c
+3 3 0 CODE
+19 5 0 CODE
+21 14 0 CODE
+23 23 0 CODE
+27 27 0 CODE
+29 2C 0 CODE
+31 3B 0 CODE
+32 4D 0 CODE
+29 68 0 CODE
+37 74 0 CODE
+25 78 0 CODE
+40 7A 0 CODE

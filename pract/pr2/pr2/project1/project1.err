@@ -1,0 +1,21 @@
+warning; file ; line ; column ; unable to open list file "powerup.rlf": No such file or directory
+warning; file ; line ; column ; unable to open list file "str_cops.rlf": No such file or directory
+warning; file ; line ; column ; unable to open list file "powerup.rlf": No such file or directory
+warning; file ; line ; column ; unable to open list file "str_cops.rlf": No such file or directory
+
+Memory Usage Map:
+
+Program space:
+    CODE                 used    E8h (   232) of  1000h bytes   (  5.7%)
+
+Internal Data:
+    BITSEG               used     0h (     0) of    10h bits    (  0.0%)
+    DATA                 used    15h (    21) of    60h bytes   ( 21.9%)
+
+External Data:
+
+Summary:
+    Program space        used    E8h (   232) of  1000h bytes   (  5.7%)
+    Internal Data        used    15h (    21) of    80h bytes   ( 16.4%)
+    External Data        None available
+
